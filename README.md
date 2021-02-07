@@ -17,12 +17,22 @@ In NY, the vast majority of users are male, followed by females, and a small por
 
 ![Screen Shot 2021-02-07 at 2 39 59 PM](https://user-images.githubusercontent.com/72593264/107158860-5b9a3680-6952-11eb-9cef-15b7f01d82df.png)
 
-### Average trip time by Gender
+### Average trip time by user
 
 The average trip time will help understand how many times a bike can be used per day.
-The average trip is around 5 to 7 minutes accross genders. Most of the rides will take les than 20 minutes, and a very few rides take longer than 40 minutes.
+The average trip is around 5 to 7 minutes. Most of the rides will take less than 20 minutes in a ride, and a very few rides takes longer than 40 minutes.
 
-![Screen Shot 2021-02-07 at 2 53 24 PM](https://user-images.githubusercontent.com/72593264/107159220-3f979480-6954-11eb-8e01-4bd853254299.png)
+![Screen Shot 2021-02-07 at 5 07 04 PM](https://user-images.githubusercontent.com/72593264/107162149-ea18b300-6966-11eb-8047-91737134d73a.png)
+
+### Average trip time by Gender
+
+There is not much diference in average trip time when sorted by gender.
+Female rides are very much alike the male rides, peaking in about 5-7 minutes rides, and almost null after 40 minutes.
+Unkown gender has a more stable curve, between 5 to 30 minutes rides, fading after 40 minitues.
+
+![Screen Shot 2021-02-07 at 5 08 11 PM](https://user-images.githubusercontent.com/72593264/107162182-10d6e980-6967-11eb-8b9d-948149547d00.png)
+
+
 
 ### Trips by Weekday by Gender and by User category
 
